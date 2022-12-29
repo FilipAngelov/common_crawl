@@ -2,7 +2,6 @@
 This repo contains an app that gets data from commoncrawl.org and extracts company info (ex. address) from WARC files
 
 The structure of the notebooks is as follows:
-## In-details
 ```
 ├──  Exec_Notebook.ipynb
 │    └── Notebook_Setup.ipynb
