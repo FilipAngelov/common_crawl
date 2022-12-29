@@ -8,7 +8,8 @@ The structure of the notebooks is as follows:
 │    └── Input_Domain.ipynb
 │    └── Get_WARC.ipynb
 │    └── Process_HTML.ipynb
-│    └── requirements.txt
+│
+├──  requirements.txt
 
 ```
 
